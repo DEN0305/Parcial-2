@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+}
+
+.navbar{
+    padding: 10px;
+    background-color: rgb(56, 86, 35);
+}
+
+h1{
+    color: #fff;
+    text-align: left;
+}
+
+.image{
+    text-align: right;
+}
+
+.image img{
+    margin-bottom: 100px;
+    width: 500px;
+    height: 500px;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(56, 86, 35);
+    color: rgb(56, 86, 35);;
+    text-align: center;
+}
